@@ -19,18 +19,18 @@ This notebook addresses four key questions:
 ## How to Run
 
 1. Clone the repository:
-    git clone https://github.com/ArshdeepKaur04/Email-Campaign-Analysis.git
-    cd email-campaign-analysis
+- git clone https://github.com/ArshdeepKaur04/Email-Campaign-Analysis.git
+- cd email-campaign-analysis
 
 2. (Optional) Create a virtual environment:
-    python -m venv venv
-    source venv/bin/activate  # or venv\Scripts\activate on Windows
+- python -m venv venv
+- source venv/bin/activate  # or venv\Scripts\activate on Windows
 
 3. Install the dependencies:
-    pip install -r requirements.txt
+- pip install -r requirements.txt
 
 4. Launch the notebook:
-    jupyter notebook campaign_analysis.ipynb
+- jupyter notebook campaign_analysis.ipynb
 
 # Insights Summary
 - Personalized, short emails performed better than generic or long ones.
