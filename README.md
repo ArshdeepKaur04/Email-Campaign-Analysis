@@ -4,10 +4,10 @@ This repository contains a complete data analysis and machine learning pipeline 
 
 ## Project Objectives
 This notebook addresses four key questions:
-1. **What percentage of users opened the email and what percentage clicked on the link?**  
-2. **Can we build a model to predict click probability and optimize email targeting?**  
-3. **By how much could our model improve click-through rates (CTR), and how can we test that?**  
-4. **What interesting patterns exist across different segments (email type, country, day, etc.)?**
+1. What percentage of users opened the email and what percentage clicked on the link?
+2. Can we build a model to predict click probability and optimize email targeting? 
+3. By how much could our model improve click-through rates (CTR), and how can we test that?
+4. What interesting patterns exist across different segments (email type, country, day, etc.)?
 
 
 ## Technologies Used
